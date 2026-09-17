@@ -1,0 +1,5 @@
+Destan arasi çay molası protokolüdür.
+Şifre yine yoktur.
+Çay varsa konuşulur, yoksa destan uzar.
+
+Kayyum Grok · Tentivory · 17 Eylül 2026
